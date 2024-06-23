@@ -1,0 +1,15 @@
+/Users/nicoleroberts/RiderProjects/GenerateHash/GenerateHash/obj/Debug/net6.0/GenerateHash.csproj.AssemblyReference.cache
+/Users/nicoleroberts/RiderProjects/GenerateHash/GenerateHash/obj/Debug/net6.0/GenerateHash.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nicoleroberts/RiderProjects/GenerateHash/GenerateHash/obj/Debug/net6.0/GenerateHash.AssemblyInfoInputs.cache
+/Users/nicoleroberts/RiderProjects/GenerateHash/GenerateHash/obj/Debug/net6.0/GenerateHash.AssemblyInfo.cs
+/Users/nicoleroberts/RiderProjects/GenerateHash/GenerateHash/obj/Debug/net6.0/GenerateHash.csproj.CoreCompileInputs.cache
+/Users/nicoleroberts/RiderProjects/GenerateHash/GenerateHash/bin/Debug/net6.0/GenerateHash
+/Users/nicoleroberts/RiderProjects/GenerateHash/GenerateHash/bin/Debug/net6.0/GenerateHash.deps.json
+/Users/nicoleroberts/RiderProjects/GenerateHash/GenerateHash/bin/Debug/net6.0/GenerateHash.runtimeconfig.json
+/Users/nicoleroberts/RiderProjects/GenerateHash/GenerateHash/bin/Debug/net6.0/GenerateHash.dll
+/Users/nicoleroberts/RiderProjects/GenerateHash/GenerateHash/bin/Debug/net6.0/GenerateHash.pdb
+/Users/nicoleroberts/RiderProjects/GenerateHash/GenerateHash/obj/Debug/net6.0/GenerateHash.dll
+/Users/nicoleroberts/RiderProjects/GenerateHash/GenerateHash/obj/Debug/net6.0/refint/GenerateHash.dll
+/Users/nicoleroberts/RiderProjects/GenerateHash/GenerateHash/obj/Debug/net6.0/GenerateHash.pdb
+/Users/nicoleroberts/RiderProjects/GenerateHash/GenerateHash/obj/Debug/net6.0/GenerateHash.genruntimeconfig.cache
+/Users/nicoleroberts/RiderProjects/GenerateHash/GenerateHash/obj/Debug/net6.0/ref/GenerateHash.dll
